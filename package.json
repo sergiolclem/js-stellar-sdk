@@ -139,7 +139,6 @@
     "terser-webpack-plugin": "^5.3.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3",
-    "utility-types": "^3.7.0",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.0.1"
   },
@@ -150,6 +149,7 @@
     "eventsource": "^2.0.2",
     "randombytes": "^2.1.0",
     "toml": "^3.0.0",
-    "urijs": "^1.19.1"
+    "urijs": "^1.19.1",
+    "utility-types": "^3.7.0"
   }
 }
